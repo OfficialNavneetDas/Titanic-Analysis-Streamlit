@@ -1,0 +1,4 @@
+titanic_env
+.ipynb_checkpoints
+__pycache__
+models_traning.ipynb
